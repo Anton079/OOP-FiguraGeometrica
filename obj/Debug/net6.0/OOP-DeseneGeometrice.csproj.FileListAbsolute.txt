@@ -1,0 +1,14 @@
+C:\mycode\oop\mostenire\OOP-DeseneGeometrice\OOP-DeseneGeometrice\bin\Debug\net6.0\OOP-DeseneGeometrice.exe
+C:\mycode\oop\mostenire\OOP-DeseneGeometrice\OOP-DeseneGeometrice\bin\Debug\net6.0\OOP-DeseneGeometrice.deps.json
+C:\mycode\oop\mostenire\OOP-DeseneGeometrice\OOP-DeseneGeometrice\bin\Debug\net6.0\OOP-DeseneGeometrice.runtimeconfig.json
+C:\mycode\oop\mostenire\OOP-DeseneGeometrice\OOP-DeseneGeometrice\bin\Debug\net6.0\OOP-DeseneGeometrice.dll
+C:\mycode\oop\mostenire\OOP-DeseneGeometrice\OOP-DeseneGeometrice\bin\Debug\net6.0\OOP-DeseneGeometrice.pdb
+C:\mycode\oop\mostenire\OOP-DeseneGeometrice\OOP-DeseneGeometrice\obj\Debug\net6.0\OOP-DeseneGeometrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\mycode\oop\mostenire\OOP-DeseneGeometrice\OOP-DeseneGeometrice\obj\Debug\net6.0\OOP-DeseneGeometrice.AssemblyInfoInputs.cache
+C:\mycode\oop\mostenire\OOP-DeseneGeometrice\OOP-DeseneGeometrice\obj\Debug\net6.0\OOP-DeseneGeometrice.AssemblyInfo.cs
+C:\mycode\oop\mostenire\OOP-DeseneGeometrice\OOP-DeseneGeometrice\obj\Debug\net6.0\OOP-DeseneGeometrice.csproj.CoreCompileInputs.cache
+C:\mycode\oop\mostenire\OOP-DeseneGeometrice\OOP-DeseneGeometrice\obj\Debug\net6.0\OOP-DeseneGeometrice.dll
+C:\mycode\oop\mostenire\OOP-DeseneGeometrice\OOP-DeseneGeometrice\obj\Debug\net6.0\refint\OOP-DeseneGeometrice.dll
+C:\mycode\oop\mostenire\OOP-DeseneGeometrice\OOP-DeseneGeometrice\obj\Debug\net6.0\OOP-DeseneGeometrice.pdb
+C:\mycode\oop\mostenire\OOP-DeseneGeometrice\OOP-DeseneGeometrice\obj\Debug\net6.0\OOP-DeseneGeometrice.genruntimeconfig.cache
+C:\mycode\oop\mostenire\OOP-DeseneGeometrice\OOP-DeseneGeometrice\obj\Debug\net6.0\ref\OOP-DeseneGeometrice.dll
