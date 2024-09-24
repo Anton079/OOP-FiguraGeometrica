@@ -15,25 +15,26 @@ namespace OOP_DeseneGeometrice
 
         public Linie(Punct p1, Punct p2)
         {
-            .p1 = p1;
+            this.p1 = p1;
             this.p2 = p2;
         }
 
         public override void Afisare()
         {
-            Console.WriteLine($"{p1}, {p2}");
+            Console.WriteLine("Linie cu coordonatele");
+            p1.Afisare();
+            p2.Afisare();
         }
 
         public override void Translate(int p1T, int p2T)
         {
-          
-            p1.Translate(p2T, p1T);
+            p1.Translate(p1T, p2T);
             p2.Translate(p1T, p2T);
         }
 
         public override Figura Duplicare()
         {
-            Linie LinieDuplicata = new Linie();
+            Linie LinieDuplicata = new Linie(p1, p2);
 
             return LinieDuplicata;
         }
