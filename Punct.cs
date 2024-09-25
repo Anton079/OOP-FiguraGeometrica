@@ -1,12 +1,13 @@
-﻿using System;
+﻿using OOP_DeseneGeometrice;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOP_DeseneGeometrice
+namespace MostenireTestare.InterfeteExemplu
 {
-    public class Punct : Figura
+    public class Punct : IFigura
     {
         private int _x;
         private int _y;
@@ -29,22 +30,35 @@ namespace OOP_DeseneGeometrice
             set { _y = value; }
         }
 
-        public override void Afisare()
+        public void Afisare()
         {
-            Console.WriteLine($"{X} {Y}");
+            Console.WriteLine(this);
         }
 
-        public override void Translate(int tx, int ty)
+        public void Translate(int tx, int ty)
         {
             X += tx;
-            Y += ty;          
+            Y += ty;
         }
 
-        public override Figura Duplicare()
+        public IFigura Duplicare()
         {
-            Punct CoordonateDuplicat = new Punct(X, Y);
+            Punct PunctDuplicat = new Punct(X, Y);
 
-            return CoordonateDuplicat;
+            return PunctDuplicat;
+        }
+
+
+        public override string ToString()
+        {
+            return $"{X} {Y}";
+        }
+
+        public override bool Equals(object? obj)
+        {
+            Punct punct = obj as Punct;
+            return this._x == punct.X && this._y == punct.Y;
+
         }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP-DeseneGeometrice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee08dac37bb2f7ba52fd2e119fb71b4d22960996")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP-DeseneGeometrice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP-DeseneGeometrice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
